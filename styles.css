@@ -1,0 +1,45 @@
+body {
+  font-family: helvetica, arial;
+  text-align: center;
+  background-image: url("https://media.istockphoto.com/vectors/banana-pattern-vector-id914067456?k=20&m=914067456&s=612x612&w=0&h=IPc9ae3HTVWpsKMrJvNZIxEUkxgCF11_zntiCTSahFE=");
+}
+
+ul {
+  color: #fbe5e5;
+}
+
+.pic {
+  height: 40%;
+  width: 40%;
+}
+
+.foodie {
+  background-color: #e60965;
+  border-radius: 20px;
+  color: #fbe5e5;
+}
+
+.links {
+  font-size: 24px;
+  background-color: #f94892;
+  color: #fbe5e5;
+  font-size: 36px;
+}
+
+#linkList {
+  padding: 5%;
+  margin: 5%;
+  background-color: #f94892;
+}
+
+.recipe {
+  text-align: left;
+  padding: 5%;
+  margin: 5%;
+  background-color: #f94892;
+  color: #fbe5e5;
+}
+
+.main {
+  text-align: center;
+}
